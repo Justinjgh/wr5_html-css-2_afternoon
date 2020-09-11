@@ -1,0 +1,46 @@
+img {
+    width: 250px;
+}
+
+body {
+    background-image: url("https://consequenceofsound.net/wp-content/uploads/2017/04/screen-shot-2017-04-12-at-12-36-54-pm.png?w=807");
+    background-size: cover;
+} 
+
+.dmheading {
+height: 175px;
+background: skyblue;
+display: flex;
+justify-content: space-between;
+align-items: center;
+
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 20px;
+}
+
+li {
+    margin: 20px;
+    font-size: 30px;
+    padding: 140px 0 0px 0;
+
+}
+
+a {
+    color: white;
+}
+
+.maintext {
+text-align: center;
+font-size: 25px;
+color: white;
+padding: 250px 0px 0px 0px
+
+    
+}
